@@ -1,0 +1,114 @@
+{
+    "Employees" : [
+        {
+            "userId" : "ovaquez",
+            "jobTitleName" : "Developer",
+            "firstName":"Oscar",
+            "lastName":"Vaquez",
+            "preferredFullName":"Oscar Vaquez",
+            "employeeCode":"E1",
+            "region":"GA",
+            "phoneNumber":"999-9999",
+            "emailAddress":"ovaquez@gmail.com"
+},
+{
+            "userId" : "alopez",
+            "jobTitleName" : "Developer",
+            "firstName":"Alex",
+            "lastName":"Lopez",
+            "preferredFullName":"Alex Lopez",
+            "employeeCode":"E2",
+            "region":"GA",
+            "phoneNumber":"999-9999",
+            "emailAddress":"alopez@gmail.com"
+},
+{
+            "userId" : "lgonz",
+            "jobTitleName" : "Developer",
+            "firstName":"Laura",
+            "lastName":"Gonzalez",
+            "preferredFullName":"Laura Gonzalez",
+            "employeeCode":"E3",
+            "region":"NC",
+            "phoneNumber":"999-9999",
+            "emailAddress":"lgonz@gmail.com"
+},
+{
+            "userId" : "jcont",
+            "jobTitleName" : "Developer",
+            "firstName":"Jerry",
+            "lastName":"Contreras",
+            "preferredFullName":"Jerry Contreras",
+            "employeeCode":"E4",
+            "region":"TX",
+            "phoneNumber":"999-9999",
+            "emailAddress":"jcont@gmail.com"
+},
+{
+    "userId" : "thardy",
+    "jobTitleName" : "Developer",
+    "firstName":"Tom",
+    "lastName":"Hardy",
+    "preferredFullName":"Tom Hardy",
+    "employeeCode":"E5",
+    "region":"GA",
+    "phoneNumber":"999-9999",
+    "emailAddress":"hardy@gmail.com"
+},
+{
+    "userId" : "lsun",
+    "jobTitleName" : "Developer",
+    "firstName":"Logan",
+    "lastName": "Sun",
+    "preferredFullName":"Logan Sun",
+    "employeeCode":"E6",
+    "region":"TX",
+    "phoneNumber":"999-9999",
+    "emailAddress":"lsun@gmail.com"
+},
+{
+    "userId" : "btruck",
+    "jobTitleName" : "Developer",
+    "firstName":"Bob",
+    "lastName":"Truck",
+    "preferredFullName":"Bob Truck",
+    "employeeCode":"E7",
+    "region":"GA",
+    "phoneNumber":"999-9999",
+    "emailAddress":"btruck@gmail.com"
+},
+{
+    "userId" : "mscott",
+    "jobTitleName" : "Developer",
+    "firstName":"Mike",
+    "lastName":"Scott",
+    "preferredFullName":"Mike Scott",
+    "employeeCode":"E8",
+    "region":"GA",
+    "phoneNumber":"999-9999",
+    "emailAddress":"mscott@gmail.com"
+},
+{
+    "userId" : "mfich",
+    "jobTitleName" : "Developer",
+    "firstName":"Mae",
+    "lastName":"Fich",
+    "preferredFullName":"Mae Fich",
+    "employeeCode":"E9",
+    "region":"GA",
+    "phoneNumber":"999-9999",
+    "emailAddress":"mfich@gmail.com"
+},
+{
+    "userId" : "afedley",
+    "jobTitleName" : "Developer",
+    "firstName":"Abigail",
+    "lastName":"Fedley",
+    "preferredFullName":"Abigail Fedley",
+    "employeeCode":"E10",
+    "region":"GA",
+    "phoneNumber":"999-9999",
+    "emailAddress":"afedley@gmail.com"
+}
+]
+        }
